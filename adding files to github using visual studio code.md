@@ -12,18 +12,18 @@ How to add your local repository to Github using visual studio code
 
 ```git remote add origin https://github.com/YourAccountName/YourRepositoryName```
 
-5) > this is to verify the link to the remote repo.
+5) > This is to verify the link to the remote repo.
 
 ```git remote -v```
 
-6) > adding the files or folders to be commited.
+6) > Adding the files or folders to be commited.
 
 ```git add file_name/FOLDER_name```
 
-7) > commting the files with a comment "initial commit"
+7) > Commting the files with a comment "initial commit"
 
 ```git commit -m "initial commit" ```
 
-8) > pushes the commit-ed changes into the remote repo
+8) > Pushes the commit-ed changes into the remote repo
 
 ```git push -u origin master```
