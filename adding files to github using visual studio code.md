@@ -7,11 +7,11 @@ How to add your local repository to Github using visual studio code
 
 3) > Navigate to the local project directory and create a local git repository.
 
-     - ``` **git init** ```
+     ``` git init ```
 
 4) > Maps the remote repo link to local git repo.
 
-``` ######git remote add origin https://github.com/YourAccountName/YourRepositoryName```
+     ``` git remote add origin https://github.com/YourAccountName/YourRepositoryName```
 
 5) > This is to verify the link to the remote repo.
 
