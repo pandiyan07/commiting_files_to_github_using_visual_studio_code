@@ -1,8 +1,9 @@
 How to add your local repository to Github using visual studio code
 
-1)  First login to your github account in a broser and create a repository 
-    into which the files must be uploaded and stored.
-2)  Copy the link of the repository and execute the below given following commands -
+1) > First login to your github account in a broser and create a repository 
+     into which the files must be uploaded and stored.
+     
+2) > Copy the link of the repository and execute the below given following commands -
 
 3) > Navigate to the local project directory and create a local git repository.
 
